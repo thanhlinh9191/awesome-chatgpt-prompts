@@ -1,8 +1,6 @@
 name: Update Contributors
 
 on:
-  schedule:
-    - cron: '0 3 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
